@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FietsenDief
 - 👀 I’m learning to code
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 📫 You can contact me on discord (FietsenDief_22#8862)
 
 <!---
